@@ -1,7 +1,11 @@
 #!/bin/bash
-echo "Firstly Become a root user."
+# Check if the user is root
+if [ "$(id -u)" != "0" ]; then
+    echo "This script must be run as root.Are you root?! Exiting..."
+    exit 1
+fi
 echo
-echo "It work best in Kali Linux"
+
 echo
 sleep 2
 apt update -y
@@ -94,4 +98,3 @@ for tool_name in "${!tools[@]}"; do
     fi
 done
 echo -e "\n${RED}Please install the missing tools manually.${NC}"
-
