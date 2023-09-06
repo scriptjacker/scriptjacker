@@ -23,6 +23,9 @@
 20. Test SSTI (It automate the SSTI vulnerability scan.)
 21. Find Buckets (It scan for publically open buckets for target.)
 ```
+
+
+
 ## Important:
 `This tool will work when you are a root user.`
 ```
