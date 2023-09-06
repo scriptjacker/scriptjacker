@@ -25,6 +25,7 @@
 ```
 <img src="/recon-methodology.png" alt="test" title="Recon Methodology">
 
+For more information visit ```https://scriptjacker.in/research/recon```
 
 ## Important:
 `This tool will work when you are a root user.`
