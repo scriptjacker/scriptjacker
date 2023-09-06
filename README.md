@@ -50,3 +50,32 @@ chmod +x install.sh
 ```sudo su```
 
 ```./scriptjacker.sh -h```
+
+#### Usage:
+```
+   _______________(_)___  / /_  (_)___ ______/ /_____  _____
+  / ___/ ___/ ___/ / __ \/ __/ / / __ `/ ___/ //_/ _ \/ ___/
+ (__  ) /__/ /  / / /_/ / /_  / / /_/ / /__/ ,< /  __/ /    
+/____/\___/_/  /_/ .___/\__/_/ /\__,_/\___/_/|_|\___/_/     
+                /_/       /___/                             
+
+v.1.0                                          Parth Narula 
+
+
+[+] Argument: ./scriptjacker.sh -h, --help
+
+FLAGS:
+[-] -all Do full recon process. (take more time than other tasks.)
+[-] -sub Do indepth subdomain enumeration and task related to it.
+[-] -js Do Javascript recon and find words from it.
+[-] -dns Do indepth DNS enumeration information related.
+[-] -vp  It take parameters/urls file and grep potentially vul param.
+
+EXAMPLES:
+[+] Argument: ./scriptjacker.sh -all target.com
+[+] Argument: ./scriptjacker.sh -sub target.com
+[+] Argument: ./scriptjacker.sh -vp file.txt (Can enter full path like ../file.txt)
+[+] Argument: ./scriptjacker.sh -js target.com
+```
+
+##
