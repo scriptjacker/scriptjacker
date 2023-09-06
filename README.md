@@ -42,10 +42,9 @@ git clone https://github.com/scriptjacker/scriptjacker.git
 #### give permissions
 ```sudo su```
 
-```
 chmod +x scriptjacker.sh
 chmod +x install.sh
-```
+
 #### Run the tool
 ```sudo su```
 
