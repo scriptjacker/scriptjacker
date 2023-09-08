@@ -82,4 +82,5 @@ EXAMPLES:
 [+] Argument: ./scriptjacker.sh -js target.com
 ```
 
-##
+## Guidance 
+This tool have parameters that will ask for several information.
