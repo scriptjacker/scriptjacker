@@ -85,4 +85,4 @@ EXAMPLES:
 ## Guidance 
 This tool have parameters that will ask for several information.
 
- <img src="/tool-output.gif" alt="tool" title="Scriptjacker output width=250">
+ <img src="/tool-output.gif" width="250px">
