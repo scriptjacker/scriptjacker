@@ -9,6 +9,14 @@ echo
 echo
 sleep 2
 apt update -y
+apt install xargs -y
+apt install git -y
+apt install python-dnspython -y
+apt install python-pip -y
+apt install python3-pip -y
+apt install python-setuptools -y
+apt install ruby-full -y
+apt install build-essential libssl-dev libffi-dev python-dev -y
 apt install figlet -y
 apt install lolcat -y
 apt install wafw00f -y
