@@ -9,7 +9,7 @@ echo
 echo
 sleep 2
 apt update -y
-if [[ -z "$GOPATH" ]];then
+if [[ -z "env $GOPATH" ]];then
 wget https://dl.google.com/go/go1.13.4.linux-amd64.tar.gz
 					sudo tar -xvf go1.13.4.linux-amd64.tar.gz
 					sudo mv go /usr/local
