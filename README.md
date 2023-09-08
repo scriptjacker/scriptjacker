@@ -23,7 +23,7 @@
 20. Test SSTI (It automate the SSTI vulnerability scan.)
 21. Find Buckets (It scan for publically open buckets for target.)
 ```
-<img src="/recon-methodology.png" alt="test" title="Recon Methodology">
+<img src="/recon-methodology.png" alt="recon" title="Recon Methodology">
 
 For more information visit ```https://scriptjacker.in/research/recon```
 
@@ -84,3 +84,5 @@ EXAMPLES:
 
 ## Guidance 
 This tool have parameters that will ask for several information.
+
+ <img src="/tool-output.gif" alt="tool" title="Scriptjacker output width=250">
