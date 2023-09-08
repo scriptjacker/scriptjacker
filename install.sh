@@ -117,4 +117,4 @@ for tool_name in "${!tools[@]}"; do
         echo -e "${RED}$tool_name is not installed.${NC}"
     fi
 done
-echo -e "\n${RED}Please install the missing tools manually.${NC}"
+echo -e "\n${RED}Please install the missing tools manually by looking commands and pth in script..${NC}"
