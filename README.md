@@ -40,9 +40,9 @@ Records     : Comming Soon :)
 |---|---|
 | **AIR 21** | HackWithIndia 2026 Web Hacking Competition Winner |
 | **6 X CTF Winner** | National & Universtly Level CTFs |
-| 🎯 **2x CVE** | Published Common Vulnerabilities & Exposures |
-| 🏅 **250+ Hall of Fames** | Across global bug bounty programs |
-| 🔒 **425+ Companies Secured** | From startups to Fortune-level targets |
+| **2x CVE** | Published Common Vulnerabilities & Exposures |
+| **250+ Hall of Fames** | Across global bug bounty programs |
+| **425+ Companies Secured** | From startups to Fortune-level targets |
 
 ---
 
@@ -73,10 +73,9 @@ Records     : Comming Soon :)
 ## 📚 Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CEHv13-Certified%20Ethical%20Hacker-red?style=for-the-badge" alt="CEH"/>
-  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity-blue?style=for-the-badge" alt="eJPT"/>
-  <img src="https://img.shields.io/badge/eWPTX-Web%20Pentester%20Xtreme-purple?style=for-the-badge" alt="eWPTX"/>
-  <img src="https://img.shields.io/badge/GCPC-GIAC%20Certified-orange?style=for-the-badge" alt="GCPC"/>
+  <img src="https://img.shields.io/badge/CEHv13-Certified%20Ethical%20Hacker-red?style=for-the-badge" alt="CEHv13"/>
+  <img src="https://img.shields.io/badge/eJPT-eLearnSecurity-blue?style=for-the-badge" alt="eJPTv2"/>
+  <img src="https://img.shields.io/badge/eWPTX-Web%20Pentester%20Xtreme-purple?style=for-the-badge" alt="eWPTXv3"/>
 </p>
 
 ---
@@ -86,8 +85,6 @@ Records     : Comming Soon :)
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **ScriptJacker Tool** | Full-recon automation for bug hunters & pentesters with 21+ modules | ⭐ Active |
-| **ScriptJacker.in** | Security research & writeups platform | Active |
-| **Vulnerability Research** | CVE disclosures & security advisories | Ongoing |
 
 ---
 
@@ -95,10 +92,10 @@ Records     : Comming Soon :)
 
 > 📖 Published on [Medium @scriptjacker](https://scriptjacker.medium.com)
 
-- 🔴 **[5 Ways I Found PII Disclosures in the Wild](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f)** — API fuzzing, static files, web archives
-- 🔴 **[Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4)** — Real-world e-commerce vulnerability
-- 🔴 **[Double-Door IDOR Exposing 85k+ Emails](https://scriptjacker.medium.com/double-door-idor-exposing-85k-emails-182309af98be)** — Mass PII leak via URL manipulation
-- 🔴 **[Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5)** — Authorization bypass case study
+- 🔴 **[5 Ways I Found PII Disclosures in the Wild](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f)** : API fuzzing, static files, web archives
+- 🔴 **[Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4)** : Real-world e-commerce vulnerability
+- 🔴 **[Double-Door IDOR Exposing 85k+ Emails](https://scriptjacker.medium.com/double-door-idor-exposing-85k-emails-182309af98be)** : Mass PII leak via URL manipulation
+- 🔴 **[Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5)** : Authorization bypass case study
 
 ---
 
@@ -124,8 +121,8 @@ Records     : Comming Soon :)
 ```
 Website  : https://scriptjacker.in
 Blog     : https://blogs.scriptjacker.in
-Services : Web VAPT | API Security | Mobile Pentesting
-           Network Security | Cloud Security | Red Teaming
+Services : Web VAPT | API Security | Mobile Pentesting | AI Security |
+           Network Security | Cloud Security | Red Teaming | Compliance
 Models   : Project-based | Contract | Retainer | Subscription
 ```
 
