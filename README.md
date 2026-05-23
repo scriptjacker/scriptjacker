@@ -27,9 +27,9 @@ Focus       : Web | API | Mobile | AI | Network | Cloud Security
 Mission     : Securing the digital world, one vulnerability at a time.
 
 Stats       : 425+ Companies Secured | 250+ Hall of Fames | 2x CVE
-Recognitions: Australian Govt | Berlin Govt | BBC | WHO | UNSESCO | Michelin | Cambridge | Boeing | ALDI | MediTek | Philips | Zepto | Coinswitch | Nykaa | ...and many more
-Records     : India Book of Records — Cybersecurity Domain
-              TryHackMe Top 1%
+Recognitions: Australian Govt | Berlin Govt | BBC | WHO | UNSESCO | Michelin | Cambridge |
+              Boeing | ALDI | MediTek | Philips | Zepto | Coinswitch | Nykaa | ...and many more
+Records     : Comming Soon :)
 ```
 
 ---
@@ -38,15 +38,11 @@ Records     : India Book of Records — Cybersecurity Domain
 
 | Achievement | Details |
 |---|---|
-| 🛡️ **MSRC 2025 MVR** | Microsoft Security Response Center — Most Valuable Researcher |
-| 🚀 **NASA** | Acknowledged by NASA for responsible disclosure |
-| 🌍 **WHO** | Reported 4 vulnerabilities to World Health Organization |
-| 📖 **India Book of Records** | Recognition in the Cybersecurity domain |
+| **AIR 21** | HackWithIndia 2026 Web Hacking Competition Winner |
+| **6 X CTF Winner** | National & Universtly Level CTFs |
 | 🎯 **2x CVE** | Published Common Vulnerabilities & Exposures |
 | 🏅 **250+ Hall of Fames** | Across global bug bounty programs |
 | 🔒 **425+ Companies Secured** | From startups to Fortune-level targets |
-| 🧠 **TryHackMe Top 1%** | Consistent top performer in HTB & THM |
-| 💰 **€100+ Bounties** | Paid private program disclosures |
 
 ---
 
