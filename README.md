@@ -5,7 +5,7 @@
 
 </div>
 
-<h3 align="center">🔍 Penetration Tester | Bug Bounty Hunter | Red Teamer | Security Researcher</h3>
+<h3 align="center">Penetration Tester | Bug Bounty Hunter | Red Teamer | Security Researcher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=scriptjacker&color=00ff41&style=flat-square&label=VISITORS" alt="Profile views"/>
@@ -23,12 +23,11 @@ Handle      : @scriptjacker
 Role        : Penetration Tester | Red Teamer | Bug Hunter | Security Researcher
 Company     : Founder @ ScriptJacker LLP
 Location    : India
-Focus       : Web | API | Mobile | Network | Cloud Security
+Focus       : Web | API | Mobile | AI | Network | Cloud Security
 Mission     : Securing the digital world, one vulnerability at a time.
 
 Stats       : 425+ Companies Secured | 250+ Hall of Fames | 2x CVE
-Recognitions: MSRC 2025 Most Valuable Security Researcher (MVR)
-              NASA | WHO | Microsoft | Nykaa | ...and many more
+Recognitions: Australian Govt | Berlin Govt | BBC | WHO | UNSESCO | Michelin | Cambridge | Boeing | ALDI | MediTek | Philips | Zepto | Coinswitch | Nykaa | ...and many more
 Records     : India Book of Records — Cybersecurity Domain
               TryHackMe Top 1%
 ```
